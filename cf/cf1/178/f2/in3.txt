@@ -1,5 +1,0 @@
-4 3
-aaa
-abba
-abbc
-abbd

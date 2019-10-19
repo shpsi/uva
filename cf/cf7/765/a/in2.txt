@@ -1,5 +1,0 @@
-3
-SVO
-SVO->HKT
-HKT->SVO
-SVO->RAP

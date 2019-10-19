@@ -1,9 +1,0 @@
-4 3
-ULR
-DLR
-LRU
-LRD
-ULR
-DUU
-UDD
-DLR

@@ -1,6 +1,0 @@
-black
-white
-black
-white
-black
-white

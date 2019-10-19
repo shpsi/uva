@@ -1,3 +1,0 @@
-2
-max=aaaa$bbbb
-min=bbbb^aaaa

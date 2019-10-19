@@ -1,6 +1,0 @@
-5 4
-abcd
-dcba
-acbd
-dbca
-zzzz

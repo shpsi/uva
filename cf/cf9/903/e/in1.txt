@@ -1,4 +1,0 @@
-3 4
-abac
-caab
-acba

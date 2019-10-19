@@ -1,9 +1,0 @@
-8 8
-.aabbcc.
-.defghi.
-kdefghij
-klmnopqj
-.lmnopq.
-.rstuvw.
-xrstuvwy
-xzzAABBy

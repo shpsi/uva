@@ -1,6 +1,0 @@
-5
-XX|XX
-XX|XX
-XO|OX
-XO|OO
-OX|XO

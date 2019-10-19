@@ -1,5 +1,0 @@
-<span class="tex-span"> / </span><span class="tex-span">\</span>     
-  <span class="tex-span"> / </span><span class="tex-span">\</span><span class="tex-span"> / </span>  <span class="tex-span">\</span>    
- <span class="tex-span"> / </span>      <span class="tex-span">\</span>   
-<span class="tex-span"> / </span>        <span class="tex-span">\</span>  
-          <span class="tex-span">\</span><span class="tex-span"> / </span>

@@ -1,5 +1,0 @@
-YES
-aaabb
-aabbb
-cbb..
-ccb..
