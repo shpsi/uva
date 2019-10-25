@@ -10,7 +10,7 @@ Codeforces Div2D/1B > 30 min
 
 Codeforces Div2E/1C > 50 min
 
-Codeforces Div1D > 60 min
+Codeforces Div2F/1D > 60 min
  
 Total > 175 min > ~ 3 hrs
 
