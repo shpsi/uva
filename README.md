@@ -15,4 +15,5 @@ Codeforces Div1D > 60 min
 Total > 175 min > ~ 3 hrs
 
 Goal is to reduce this time to 2 hours. Sheet to be filled everyday is : - 
+
 https://docs.google.com/spreadsheets/d/1Qvi_yC-Ko0l4DtvU-oQTyIMQPkFnp-WBdgcX8jCVydI/edit#gid=0
